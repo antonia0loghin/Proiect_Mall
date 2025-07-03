@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D30A86E-A6C5-4609-8C92-3F2C1FBD70AC}|Proiect_Mall\\Proiect_Mall.vcxproj|D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Wearable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5D30A86E-A6C5-4609-8C92-3F2C1FBD70AC}|Proiect_Mall\\Proiect_Mall.vcxproj|solutionrelative:Proiect_Mall\\Wearable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5D30A86E-A6C5-4609-8C92-3F2C1FBD70AC}|Proiect_Mall\\Proiect_Mall.vcxproj|D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D30A86E-A6C5-4609-8C92-3F2C1FBD70AC}|Proiect_Mall\\Proiect_Mall.vcxproj|solutionrelative:Proiect_Mall\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D30A86E-A6C5-4609-8C92-3F2C1FBD70AC}|Proiect_Mall\\Proiect_Mall.vcxproj|D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5D30A86E-A6C5-4609-8C92-3F2C1FBD70AC}|Proiect_Mall\\Proiect_Mall.vcxproj|solutionrelative:Proiect_Mall\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5D30A86E-A6C5-4609-8C92-3F2C1FBD70AC}|Proiect_Mall\\Proiect_Mall.vcxproj|D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\mall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D30A86E-A6C5-4609-8C92-3F2C1FBD70AC}|Proiect_Mall\\Proiect_Mall.vcxproj|solutionrelative:Proiect_Mall\\mall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D30A86E-A6C5-4609-8C92-3F2C1FBD70AC}|Proiect_Mall\\Proiect_Mall.vcxproj|D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Mall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D30A86E-A6C5-4609-8C92-3F2C1FBD70AC}|Proiect_Mall\\Proiect_Mall.vcxproj|solutionrelative:Proiect_Mall\\Mall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D30A86E-A6C5-4609-8C92-3F2C1FBD70AC}|Proiect_Mall\\Proiect_Mall.vcxproj|D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\store.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D30A86E-A6C5-4609-8C92-3F2C1FBD70AC}|Proiect_Mall\\Proiect_Mall.vcxproj|solutionrelative:Proiect_Mall\\store.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D30A86E-A6C5-4609-8C92-3F2C1FBD70AC}|Proiect_Mall\\Proiect_Mall.vcxproj|D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Store.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D30A86E-A6C5-4609-8C92-3F2C1FBD70AC}|Proiect_Mall\\Proiect_Mall.vcxproj|solutionrelative:Proiect_Mall\\Store.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Wearable.h",
-              "DocumentMoniker": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Wearable.h",
-              "RelativeDocumentMoniker": "Proiect_Mall\\Wearable.h",
-              "ToolTip": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Wearable.h",
-              "RelativeToolTip": "Proiect_Mall\\Wearable.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "store.cpp",
+              "DocumentMoniker": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\store.cpp",
+              "RelativeDocumentMoniker": "Proiect_Mall\\store.cpp",
+              "ToolTip": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\store.cpp",
+              "RelativeToolTip": "Proiect_Mall\\store.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwD8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T15:30:05.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Store.h",
+              "DocumentMoniker": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Store.h",
+              "RelativeDocumentMoniker": "Proiect_Mall\\Store.h",
+              "ToolTip": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Store.h",
+              "RelativeToolTip": "Proiect_Mall\\Store.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-02T16:28:49.231Z",
+              "WhenOpened": "2025-07-03T15:25:08.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.h",
-              "DocumentMoniker": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Product.h",
-              "RelativeDocumentMoniker": "Proiect_Mall\\Product.h",
-              "ToolTip": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Product.h",
-              "RelativeToolTip": "Proiect_Mall\\Product.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Title": "mall.cpp",
+              "DocumentMoniker": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\mall.cpp",
+              "RelativeDocumentMoniker": "Proiect_Mall\\mall.cpp",
+              "ToolTip": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\mall.cpp",
+              "RelativeToolTip": "Proiect_Mall\\mall.cpp",
+              "ViewState": "AgIAANEAAAAAAAAAAAAkwOEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T15:06:21.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mall.h",
+              "DocumentMoniker": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Mall.h",
+              "RelativeDocumentMoniker": "Proiect_Mall\\Mall.h",
+              "ToolTip": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Mall.h",
+              "RelativeToolTip": "Proiect_Mall\\Mall.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-02T16:27:25.329Z",
+              "WhenOpened": "2025-07-03T15:22:39.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\main.cpp",
+              "RelativeDocumentMoniker": "Proiect_Mall\\main.cpp",
+              "ToolTip": "D:\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\Proiect_Mall\\main.cpp*",
+              "RelativeToolTip": "Proiect_Mall\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T14:40:24.656Z",
               "EditorCaption": ""
             }
           ]

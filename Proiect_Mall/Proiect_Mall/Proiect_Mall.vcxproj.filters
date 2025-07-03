@@ -27,6 +27,21 @@
     <ClCompile Include="mall.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="clothing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="accesories.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="laptop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ElectronicsLuxuryStore.hpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="phone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Product.h">
@@ -39,6 +54,42 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Wearable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Clothing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Accesories.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Electronics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Laptop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Phone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ElectronicsStore.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ElectronicsStandardStore.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LuxuryStore.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StandardStore.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WearableStore.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WearableStandardStore.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WearableLuxuryStore.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

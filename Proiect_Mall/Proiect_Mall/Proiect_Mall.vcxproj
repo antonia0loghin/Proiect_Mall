@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -123,16 +123,33 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="accesories.cpp" />
+    <ClCompile Include="clothing.cpp" />
+    <ClCompile Include="ElectronicsLuxuryStore.hpp" />
+    <ClCompile Include="laptop.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mall.cpp" />
+    <ClCompile Include="phone.cpp" />
     <ClCompile Include="product.cpp" />
     <ClCompile Include="store.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Accesories.h" />
+    <ClInclude Include="Clothing.h" />
+    <ClInclude Include="Electronics.h" />
+    <ClInclude Include="ElectronicsStore.hpp" />
+    <ClInclude Include="ElectronicsStandardStore.hpp" />
+    <ClInclude Include="Laptop.h" />
+    <ClInclude Include="LuxuryStore.hpp" />
     <ClInclude Include="Mall.h" />
+    <ClInclude Include="Phone.h" />
+    <ClInclude Include="StandardStore.hpp" />
     <ClInclude Include="Store.h" />
     <ClInclude Include="Product.h" />
     <ClInclude Include="Wearable.h" />
+    <ClInclude Include="WearableLuxuryStore.hpp" />
+    <ClInclude Include="WearableStandardStore.hpp" />
+    <ClInclude Include="WearableStore.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

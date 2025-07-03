@@ -10,7 +10,9 @@ protected:
 	bool PremiumBrand; 
 	int TrendFactor; //0-10
 	bool isEcoFriendly;
-	Wearable(int cod, int buyPrice, int sellPrice, bool premiumBrand, int trendFactor, bool ecoFriendly)
-		: Product(cod, buyPrice, sellPrice), PremiumBrand(premiumBrand), TrendFactor(trendFactor), isEcoFriendly(ecoFriendly) {
+	Wearable(int cod, float buyPrice, float sellPrice, bool premiumBrand, int trendFactor, bool ecoFriendly)
+		: Product(cod, buyPrice, sellPrice*1.15), PremiumBrand(premiumBrand), TrendFactor(trendFactor), isEcoFriendly(ecoFriendly) {
 	}
+public:
+    virtual ~Wearable() override {}
 };

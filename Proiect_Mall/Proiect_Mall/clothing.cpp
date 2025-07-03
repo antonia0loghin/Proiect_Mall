@@ -1,25 +1,24 @@
 #include "Clothing.h"
 
-int Clothing::GetSellPrice() const {
+float Clothing::GetSellPrice() const {
 	int sellPrice = InitialSellPrice;
 	
-	sellPrice += careLevel * 10; 
+	sellPrice += (float)sellPrice * careLevel * 0.1;
 	
 	if (isEcoFriendly) {
-		sellPrice += 50; 
+		sellPrice *= 1.2;
 	}
-	
+	else sellPrice *= 0.9;
 	if (isFormal) {
-		sellPrice += 40; // Example: formal clothing adds a flat 40 to the price
+		sellPrice *= 1.15;
 	}
-
 	if (PremiumBrand) {
 		sellPrice *= 2;
 	}
-
+	else sellPrice *= 0.95;
 	if (isNatural) {
-		sellPrice *= 3; // Example: natural materials add a flat 30 to the price
+		sellPrice *= 1.5;
 	}
-	sellPrice = sellPrice*TrendFactor/10; // Example: trend factor adds a flat 5 per point
+	sellPrice *=1.1 * TrendFactor;
 	return sellPrice;
 }

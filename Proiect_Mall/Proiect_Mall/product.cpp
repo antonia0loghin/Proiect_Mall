@@ -21,15 +21,10 @@ bool Product::Sell() {
 	}
 }
 
-const int Product::GetInitialSellPrice() const {
+const float Product::GetInitialSellPrice() const {
 	return InitialSellPrice;
 }
-const int Product::GetBuyPrice() const {
+const float Product::GetBuyPrice() const {
 	return BuyPrice;
 }
-
-
-
-
-
 

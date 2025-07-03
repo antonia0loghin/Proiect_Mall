@@ -5,6 +5,7 @@ using namespace std;
 #include "Mall.h"
 int main()
 {
-	Mall mall;
+	Mall& mall = Mall::getInstance();
+	mall.Menu();
 	return 0;
 }
